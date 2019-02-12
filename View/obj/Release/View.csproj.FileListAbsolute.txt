@@ -1,0 +1,9 @@
+/Users/aluno/Documents/FamiliaSoluction/View/bin/View.dll
+/Users/aluno/Documents/FamiliaSoluction/View/bin/BLL.dll
+/Users/aluno/Documents/FamiliaSoluction/View/bin/DAL.dll
+/Users/aluno/Documents/FamiliaSoluction/View/bin/MySql.Data.dll
+/Users/aluno/Documents/FamiliaSoluction/View/bin/DAL.dll.config
+/Users/aluno/Documents/FamiliaSoluction/View/obj/Release/View.csprojAssemblyReference.cache
+/Users/aluno/Documents/FamiliaSoluction/View/obj/Release/View.csproj.CoreCompileInputs.cache
+/Users/aluno/Documents/FamiliaSoluction/View/obj/Release/View.csproj.CopyComplete
+/Users/aluno/Documents/FamiliaSoluction/View/obj/Release/View.dll

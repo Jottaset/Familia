@@ -1,0 +1,4 @@
+/Users/aluno/Documents/FamiliaSoluction/BLL/bin/Release/BLL.dll
+/Users/aluno/Documents/FamiliaSoluction/BLL/obj/Release/BLL.csproj.CoreCompileInputs.cache
+/Users/aluno/Documents/FamiliaSoluction/BLL/obj/Release/BLL.dll
+/Users/aluno/Documents/FamiliaSoluction/BLL/obj/Release/BLL.csprojAssemblyReference.cache
